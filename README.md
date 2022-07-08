@@ -1,8 +1,7 @@
 # Demonetization_analysis
-Semantic Analysis of Demonetization project has been developed for the analysis of Indian Demonetization Record. In this project we will find out the views of different people on the demonetization by analysing the tweets from twitter and we will classify the tweets as positive or negative tweets. You can find the demonetization twitter data in data folder.
+Semantic Analysis of Demonetization project has been developed for the analysis of Indian Demonetization Record. In this project I will find out the views of different people on the demonetization by analysing the tweets from twitter and  will classify the tweets as positive or negative tweets. 
 
-For performing whole process I will use HDFS so firstly you have to create a directory in HDFS and move the local file to the HDFS and then run the pig script file.
-You can find twitter as well as reting dictionary data into the data folder
+For performing whole process I have used HDFS so firstly I create a directory in HDFS and move the local file to the HDFS and then run the pig script file.
 
 Command to run project :
 

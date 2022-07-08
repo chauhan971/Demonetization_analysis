@@ -12,7 +12,7 @@ $ hadoop fs -mkdir /demion_analysis
 # Moveing  local file to the HDFS. 
 
 $ hadoop fs -copyFromLocal /home/dark/data/demonetization-tweets.csv /demion_analysis
-$ hadoop fs -copyFromLocal /home/dark/data/AFINN.csv /demion_analysis
+$ hadoop fs -copyFromLocal /home/dark/data/AFINN.txt /demion_analysis
 
 # Executeing the pig script 
 
